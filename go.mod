@@ -1,4 +1,4 @@
-module github.com/internetarchive/Zeno
+module github.com/neochiu1004/zeno
 
 go 1.21
 
